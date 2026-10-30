@@ -31,4 +31,4 @@ Local-only operation. No network requests, accounts, telemetry, or advertisement
 
 This is an independent Obsidian community plugin. Community Directory submission and approval are separate from this GitHub release; no existing marketplace listing is claimed.
 
-**License:** MIT.
+**License:** No License.
