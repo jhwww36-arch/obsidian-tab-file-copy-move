@@ -1,4 +1,4 @@
-# obsidian tab file copy and move — Drag, Copy, Move & Import
+# Obsidian tab file copy and move — Drag, Copy, Move & Import
 
 Organize files directly from Obsidian's tab bar. Hold a modifier key, drag a tab onto a folder, and release to copy or move the file.
 
