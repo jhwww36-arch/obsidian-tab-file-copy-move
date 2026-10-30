@@ -1,4 +1,4 @@
-# Vault File Drop 0.2.1 — Drag, Copy, Move & Import
+# obsidian tab file copy and move — Drag, Copy, Move & Import
 
 Organize files directly from Obsidian's tab bar. Hold a modifier key, drag a tab onto a folder, and release to copy or move the file.
 
