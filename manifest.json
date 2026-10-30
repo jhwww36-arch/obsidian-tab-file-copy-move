@@ -1,0 +1,9 @@
+{
+  "id": "vault-file-drop",
+  "name": "Vault File Drop",
+  "version": "0.2.1",
+  "minAppVersion": "1.14.4",
+  "description": "Copy, move, and import files by dragging tabs to vault folders with configurable modifier keys and smooth scrolling.",
+  "author": "Vault File Drop contributors",
+  "isDesktopOnly": true
+}

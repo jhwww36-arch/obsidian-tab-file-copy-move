@@ -1,0 +1,29 @@
+.vfd-drop-target {
+  background-color: var(--interactive-accent) !important;
+  color: var(--text-on-accent) !important;
+  border-radius: var(--radius-s, 4px);
+  outline: 2px solid var(--interactive-accent);
+  outline-offset: -2px;
+}
+.vfd-drag-tip {
+  position: fixed;
+  z-index: 100000;
+  pointer-events: none;
+  max-width: min(400px, 85vw);
+  overflow-wrap: anywhere;
+  padding: 7px 11px;
+  border: 1px solid var(--interactive-accent);
+  border-radius: var(--radius-m, 8px);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  box-shadow: 0 4px 18px #0003;
+  font-size: var(--font-ui-small);
+}
+.vfd-dragging, .vfd-dragging * {
+  cursor: grabbing !important;
+  -webkit-user-select: none !important;
+  user-select: none !important;
+}
+.vfd-shortcut-recorder { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; justify-content: flex-end; }
+.vfd-shortcut-recorder input { width: 180px; max-width: 100%; text-align: center; }
+.vfd-shortcut-hint { width: 100%; font-size: var(--font-ui-smaller); color: var(--text-muted); }
